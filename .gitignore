@@ -1,0 +1,7 @@
+node_modules
+.pnpm-store
+/.cache
+/functions/\[\[path\]\].js
+/functions/\[\[path\]\].js.map
+/public/build
+.env
